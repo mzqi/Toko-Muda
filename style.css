@@ -59,7 +59,7 @@ header {
   justify-content: space-between;
   width: 100%;
   padding: 20px 10px;
-  backdrop-filter: blur (10px);
+  backdrop-filter: blur(10px);
 }
 
 .header .sticky {
